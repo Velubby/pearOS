@@ -2,5 +2,5 @@
 Ubuntu Distro pearOS
 
 
-username : velvel
+username : velvel\
 password : ubuntu
